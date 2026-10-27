@@ -1,0 +1,10 @@
+{
+  "name": "pivotpath-atlas",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Optional browser-demo checks; running Atlas requires only Python.",
+  "scripts": {
+    "test:demo": "node --test tests/test_demo.mjs"
+  }
+}
